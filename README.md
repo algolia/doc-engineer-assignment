@@ -61,8 +61,10 @@ Only 1 result should be displayed for a given page (best record of the page shou
 
 ### Instructions
 
-Based on what you did in step 1, write a tutorial explaining the process of splitting
+Based on what you did in step 1, write a step by step tutorial explaining the process of splitting
 HTML pages (with the language that you chose).
+
+The expected audience is: developers not knowing Algolia or any of the features covered in the tutorial.
 
 ### Evaluation criteria
 
