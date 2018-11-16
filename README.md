@@ -17,7 +17,7 @@ The test is comprised of 3 parts:
 
 In the `source/` folder you have 4 HTML files. 
 
-The goal of this exercise to create an Algolia index for all 4 pages.
+The goal of this exercise is to create an Algolia index for all 4 pages.
 Each page must be split into several records using the method explained
 in the [following blog post](https://blog.algolia.com/how-to-build-a-helpful-search-for-technical-documentation-the-laravel-example/).
 To do the split, you will need to use an HTML parser library.
